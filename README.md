@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**claudemuller/claudemuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+ ___       ___  ___  ___  __    _______   ________ ___  ___       _______   ___       __   ________  ___       ___  __    _______   ________     
+|\  \     |\  \|\  \|\  \|\  \ |\  ___ \ |\  _____\\  \|\  \     |\  ___ \ |\  \     |\  \|\   __  \|\  \     |\  \|\  \ |\  ___ \ |\   __  \    
+\ \  \    \ \  \\\  \ \  \/  /|\ \   __/|\ \  \__/\ \  \ \  \    \ \   __/|\ \  \    \ \  \ \  \|\  \ \  \    \ \  \/  /|\ \   __/|\ \  \|\  \   
+ \ \  \    \ \  \\\  \ \   ___  \ \  \_|/_\ \   __\\ \  \ \  \    \ \  \_|/_\ \  \  __\ \  \ \   __  \ \  \    \ \   ___  \ \  \_|/_\ \   _  _\  
+  \ \  \____\ \  \\\  \ \  \\ \  \ \  \_|\ \ \  \_| \ \  \ \  \____\ \  \_|\ \ \  \|\__\_\  \ \  \ \  \ \  \____\ \  \\ \  \ \  \_|\ \ \  \\  \| 
+   \ \_______\ \_______\ \__\\ \__\ \_______\ \__\   \ \__\ \_______\ \_______\ \____________\ \__\ \__\ \_______\ \__\\ \__\ \_______\ \__\\ _\ 
+    \|_______|\|_______|\|__| \|__|\|_______|\|__|    \|__|\|_______|\|_______|\|____________|\|__|\|__|\|_______|\|__| \|__|\|_______|\|__|\|__|
+                                                                                                                                                                                                                                              
+- 🔭 I’m currently working on big data Scala project and Scala game dev
+- 🌱 I’m currently learning Scala, Apache Spark, Apache Kafka, Apache Avro, Gradle, libGDX
 - ⚡ Fun fact: ...
--->
