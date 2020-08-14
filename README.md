@@ -16,6 +16,10 @@
                                                                                                                                           
 ```
 
+<script>
+    console.log('test');
+</script>
+    
 - 🔭 I’m currently working on a big data Scala project and Scala game dev...
 - 🌱 I’m currently learning Scala, Apache Spark, Apache Kafka, Apache Avro, Gradle, libGDX...
 - ⚡ Fun fact: Blackbeard had 14 wives.
