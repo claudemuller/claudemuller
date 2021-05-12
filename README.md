@@ -1,11 +1,11 @@
 <img src="https://github.com/claudemuller/terminal-typer/blob/master/assets/matrix.gif"/>
 
 - 🔭 I'm currently working on:
-  - a big data Scala project including Kafka, Spark, Hadoop and Akka
-  - writing small C programs in order to build up to my own OS
-  - a 3D rendering project in C
+  - 10x TypeScripting
+  - exploring kernel dev
+  - exploring formal language dev
 - 🌱 I'm currently learning:
-  - Scala, Apache Kafka, Akka, Apache Spark and Hadoop
-  - building a computer from nand gates
-  - C
-- ⚡ Fun fact: Blackbeard had 14 wives.
+  - MongoDB dev
+  - Kubernetes + AWS
+  - Advanced C
+- ⚡ Fun fact: "Googling" was first used as a verb in mainstream media in an episode of Buffy the Vampire Slayer.
