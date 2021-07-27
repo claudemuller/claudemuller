@@ -3,6 +3,7 @@
 - 🔭 I'm currently working on:
   - Custom game engine
   - A super-charged Pacman clone
+  - Documenting and creating examples of design patterns and algorithms in various languages
 - 🚀 I'm looking forward to learning about:
   - kernel dev
   - formal language dev
