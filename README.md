@@ -1,14 +1,19 @@
 <img src="https://github.com/claudemuller/terminal-typer/blob/master/assets/matrix.gif"/>
 
 - 🔭 I'm currently working on:
+  - Digging in to Go
+  - Exploring pentesting and bug bountying
   - React and React Native apps
   - Documenting and creating examples of design patterns and algorithms in various languages
-  - Digging in to Go
 - 🚀 I'm looking forward to learning about:
-  - kernel dev
-  - formal language dev
+  - Assembly and disassembly
+  - Kernel dev
+  - Formal language dev
 - 🌱 I'm currently learning:
-  - React + React Native
   - Go
+  - k8s
+  - SNMP
+  - Pentesting, reversing, hacking
+  - React + React Native
   - Postgres
-- ⚡ Fun fact: "Googling" was first used as a verb in mainstream media in an episode of Buffy the Vampire Slayer.
+- ⚡ Fun fact: In the film [Hackers](https://www.imdb.com/title/tt0113243/), the mainframe that Zero Cool, Acid Burn, Cereal Killer (actually he didn't - too busy with his tention-breakers), Phantom Phreak, Lord Nikon and Master of Disaster/Ultra Laser/Doctor Doom/Joey :D break into is a fictional mainframe computer called the "Gibson" - a homage to cyberpunk author [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
