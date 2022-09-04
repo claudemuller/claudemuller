@@ -2,8 +2,8 @@
 
 - 🔭 I'm currently working on:
   - Digging in to Go
+  - Collecting device data on fixed networks
   - Exploring pentesting and bug bountying
-  - React and React Native apps
   - Documenting and creating examples of design patterns and algorithms in various languages
 - 🚀 I'm looking forward to learning about:
   - Assembly and disassembly
@@ -13,6 +13,7 @@
   - Go
   - k8s
   - SNMP
+  - Prometheus + Grafana
   - Pentesting, reversing, hacking
   - React + React Native
   - Postgres
