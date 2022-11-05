@@ -12,7 +12,7 @@
 - 🌱 I'm currently learning:
   - Go
   - k8s
-  - SNMP
+  - Rust
   - Prometheus + Grafana
   - Pentesting, reversing, hacking
   - React + React Native
