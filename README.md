@@ -10,7 +10,7 @@
   - Kernel dev
   - Formal language dev
 - 🌱 I'm currently learning:
-  - Go
+  - Advanced Go
   - k8s
   - Rust
   - Prometheus + Grafana
