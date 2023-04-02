@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on:
   - Digging in to Go
   - Collecting device data on fixed networks
-  - Exploring pentesting and bug bountying
+  - Game engine development in C and C++
   - Documenting and creating examples of design patterns and algorithms in various languages
 - 🚀 I'm looking forward to learning about:
   - Assembly and disassembly
@@ -11,10 +11,9 @@
   - Formal language dev
 - 🌱 I'm currently learning:
   - Advanced Go
+  - Advanced C
   - k8s
-  - Rust
+  - Android dev in Kotlin
   - Prometheus + Grafana
-  - Pentesting, reversing, hacking
-  - React + React Native
   - Postgres
 - ⚡ Fun fact: In the film [Hackers](https://www.imdb.com/title/tt0113243/), the mainframe that Zero Cool, Acid Burn, Cereal Killer (actually he didn't - too busy with his tention-breakers), Phantom Phreak, Lord Nikon and Master of Disaster/Ultra Laser/Doctor Doom/Joey :D break into is a fictional mainframe computer called the "Gibson" - a homage to cyberpunk author [William Gibson](https://en.wikipedia.org/wiki/William_Gibson)
