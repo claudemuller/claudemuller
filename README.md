@@ -1,7 +1,6 @@
 <img src="https://github.com/claudemuller/terminal-typer/blob/master/assets/matrix.gif"/>
 
 - 🔭 I'm currently working on:
-  - Digging in to Go
   - Collecting device data on fixed networks
   - Game engine development in C and C++
   - Documenting and creating examples of design patterns and algorithms in various languages
@@ -12,6 +11,7 @@
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
+  - Rust
   - k8s
   - Android dev in Kotlin
   - Prometheus + Grafana
