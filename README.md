@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on:
   - Attempting to master Go, C and Rust
-  - Collecting device data on fixed networks
+  - Collecting device data on fixed broadband networks
   - Documenting and creating examples of design patterns and algorithms in various languages
 - 🚀 I'm looking forward to learning about:
   - Assembly and disassembly
