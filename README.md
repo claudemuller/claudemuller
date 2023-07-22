@@ -1,17 +1,19 @@
 <img src="https://github.com/claudemuller/terminal-typer/blob/master/assets/matrix.gif"/>
 
 - 🔭 I'm currently working on:
-  - Attempting to master Go, C and Rust
+  - Attempting to master Go and C
   - Collecting device data on fixed broadband networks
   - Documenting and creating examples of design patterns and algorithms in various languages
 - 🚀 I'm looking forward to learning about:
   - Assembly and disassembly
   - Kernel dev
   - Formal language dev
+  - Rust
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
-  - Rust
+  - Unix development
+  - Networking
   - k8s
   - Android dev in Kotlin
   - Prometheus + Grafana
