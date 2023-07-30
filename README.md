@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on:
   - Attempting to master Go and C
   - Collecting device data on fixed broadband networks
-  - Documenting and creating examples of design patterns and algorithms in various languages
+  - Documenting and creating examples of [design patterns](https://github.com/claudemuller/design-patterns) and [algorithms](https://github.com/claudemuller/algorithms) in various languages
 - 🚀 I'm looking forward to learning about:
   - Assembly and disassembly
   - Kernel dev
