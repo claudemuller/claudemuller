@@ -10,12 +10,12 @@
   - Kernel dev
   - Formal language dev
   - Rust
+  - Unix development
+  - Networking
   - Emdebbed dev
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
-  - Unix development
-  - Networking
   - k8s
   - Prometheus + Grafana
   - Postgres
