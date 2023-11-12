@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on:
   - Mastering Go and C
-  - Collecting device data on mobile and fixed broadband and cellular networks
+  - Collecting device data on mobile and fixed broadband networks
   - Documenting and creating examples of [design patterns](https://github.com/claudemuller/design-patterns) and [algorithms](https://github.com/claudemuller/algorithms) in various languages
   - Game dev
 - 🚀 I'm looking forward to learning about:
