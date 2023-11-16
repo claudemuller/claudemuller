@@ -9,13 +9,13 @@
   - Assembly and disassembly
   - Kernel dev
   - Formal language dev
-  - Rust
   - Unix development
   - Networking
   - Emdebbed dev
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
+  - Rust
   - k8s
   - Prometheus + Grafana
   - Postgres
