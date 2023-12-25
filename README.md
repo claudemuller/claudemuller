@@ -5,7 +5,7 @@
   - Collecting device data on mobile and fixed broadband networks
   - Documenting and creating examples of [design patterns](https://github.com/claudemuller/design-patterns) and [algorithms](https://github.com/claudemuller/algorithms) in various languages
   - Bug Bounty Hunting
-  - Game dev
+  - Security stuff
 - 🚀 I'm looking forward to learning about:
   - Assembly and disassembly
   - Kernel dev
@@ -16,7 +16,7 @@
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
-  - Security
+  - Security stuff
   - Rust
   - k8s
   - Prometheus + Grafana
