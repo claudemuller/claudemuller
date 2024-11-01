@@ -14,9 +14,7 @@
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
-  - Discrete Mathematics
+  - Game engine dev
+  - Algorithms
   - Rust
-  - k8s
-  - Prometheus + Grafana
-  - Postgres
 - ⚡ Fun fact: [William Gibson](https://en.wikipedia.org/wiki/William_Gibson) coined the term `cyberspace` with his book [Neuromancer](https://en.wikipedia.org/wiki/Neuromancer) becoming the first novel to be put under the genre of cyberpunk fiction.
