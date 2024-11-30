@@ -10,7 +10,7 @@
   - Formal language dev
   - Unix development
   - Networking
-  - Emdebbed dev
+  - Embedded dev
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
