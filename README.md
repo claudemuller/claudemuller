@@ -15,7 +15,7 @@
   - Advanced Go
   - Advanced C
   - C++
-  - Unreal
+  - Unreal Engine
   - Game engine dev
   - Algorithms
   - Rust
