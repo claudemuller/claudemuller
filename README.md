@@ -5,6 +5,7 @@
   - Making games and game services
   - Documenting and creating examples of [design patterns](https://github.com/claudemuller/design-patterns) and [algorithms](https://github.com/claudemuller/algorithms) in various languages
 - 🚀 I'm looking forward to learning about:
+  - Computer graphics
   - Assembly and disassembly
   - Kernel dev
   - Formal language dev
@@ -14,6 +15,7 @@
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
+  - Odin
   - OpenGL
   - C++
   - Game engine dev
