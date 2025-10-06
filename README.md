@@ -17,10 +17,11 @@
 - 🌱 I'm currently learning:
   - Advanced Go
   - Advanced C
+  - OpenGL
+  - 2D physics
+  - Game engine dev
   - Dart
   - Flutter
-  - OpenGL
-  - Game engine dev
   - Algorithms
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudemuller&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
