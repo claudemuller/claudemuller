@@ -3,8 +3,7 @@
 - 🔭 I'm currently working on:
   - Game engine in C
   - Making games and game services
-  - Cross platfrom app in Flutter
-  - Movie customisation site
+  - Hacking
   - Documenting and creating examples of [design patterns](https://github.com/claudemuller/design-patterns) and [algorithms](https://github.com/claudemuller/algorithms) in various languages
 - 🚀 I'm looking forward to learning about:
   - Computer graphics
@@ -20,8 +19,7 @@
   - OpenGL
   - 2D physics
   - Game engine dev
-  - Dart
-  - Flutter
+  - Security and Reverse Engineering
   - Algorithms
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudemuller&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
