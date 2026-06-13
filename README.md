@@ -3,6 +3,7 @@
 # Codeberg Repositories
 
 - [base64-encdec.go](https://codeberg.org/luke_filewalker/base64-encdec.go#) - a base64 encoder/decoder written in Go
+- [base64-encdec.zig](https://codeberg.org/luke_filewalker/base64-encdec.zig#) - a base64 encoder/decoder written in Zig
 
 # Blurb
 
